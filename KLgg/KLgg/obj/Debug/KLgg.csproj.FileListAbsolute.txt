@@ -1,0 +1,13 @@
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\bin\Debug\KLgg.exe.config
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\bin\Debug\KLgg.exe
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\bin\Debug\KLgg.pdb
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.csprojResolveAssemblyReference.cache
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.Form1.resources
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.Properties.Resources.resources
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.csproj.GenerateResource.Cache
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.exe
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.pdb
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\bin\Debug\KLgg.exe.manifest
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\bin\Debug\KLgg.application
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.exe.manifest
+c:\users\ljeon\documents\visual studio 2013\Projects\KLgg\KLgg\obj\Debug\KLgg.application
